@@ -1,0 +1,27 @@
+目录结构
+
+├── README
+├── api
+│   ├── config
+│   │   └── arrayaccess.json                  存储数据的文件
+│   ├── functions.php                         公用方法类
+│   ├── get.php                               简易读数据接口
+│   └── in.php                                简易写数据接口
+├── composer.json
+├── composer.lock
+├── css                                       样式文件夹
+├── images                                    图片文件夹
+├── index.html
+├── js                                        JS 类库
+└── vendor                                    composer 类库
+
+
+备注：样式不是很漂浪，主要实现功能
+
+思路： 由于是展示版本，没有数据库的操作，数据写入临时文件中，进行读取 （arrayaccess.json）
+
+注意： 如果您已经下载的代码，并且想运行的话，只需要改两个地方即可
+
+index.html中  41行和66行中的post请求地址即可，希望有机会参加贵公司的面试
+
+谢谢！简历在根目录下

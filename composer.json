@@ -1,0 +1,5 @@
+{
+    "require": {
+        "oopsguy/pconfig": "^1.1"
+    }
+}

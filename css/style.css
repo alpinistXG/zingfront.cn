@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+/*地图*/
+.mapBox {
+	width: 688px;
+	margin: 10px auto;
+	
+}
+.mapBox .mapPath{
+	display:none;
+	margin-top:90px;
+	width:726px;
+	overflow:hidden;
+	border: solid 3px #ccc;
+	padding: 5px;
+	text-align: center;
+}
+
+

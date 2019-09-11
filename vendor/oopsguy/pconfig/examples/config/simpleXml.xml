@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<database>oracle</database>
+<database>mysql</database>
+<database>db2</database>
+<database>sqlserver</database>
+<config>
+<host>localhost111</host>
+<username>root</username>
+<password>hello world</password>
+<port>3306</port>
+</config>
+</root>
